@@ -1,6 +1,6 @@
 // import {joinRoom, selfId} from 'https://esm.run/trystero@0.20.0/torrent'
 
-import {joinRoom, selfId} from './trystero-nostr.min.js'
+import {joinRoom, selfId} from './trystero-ipfs.min.js'
 
 const byId = document.getElementById.bind(document)
 const canvas = byId('canvas')
